@@ -1,0 +1,6 @@
+[
+  {"type":"church","lat":41.88,"lng":-87.63,"city":"Chicago","state":"IL"},
+  {"type":"individual","lat":41.9,"lng":-87.7,"city":"Chicago","state":"IL"},
+  {"type":"individual","lat":32.78,"lng":-96.8,"city":"Dallas","state":"TX"},
+  {"type":"church","lat":36.16,"lng":-86.78,"city":"Nashville","state":"TN"}
+]
