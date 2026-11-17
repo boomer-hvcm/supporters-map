@@ -1,6 +1,12 @@
 [
-  {"type":"church","lat":41.88,"lng":-87.63,"city":"Chicago","state":"IL"},
-  {"type":"individual","lat":41.9,"lng":-87.7,"city":"Chicago","state":"IL"},
-  {"type":"individual","lat":32.78,"lng":-96.8,"city":"Dallas","state":"TX"},
-  {"type":"church","lat":36.16,"lng":-86.78,"city":"Nashville","state":"TN"}
+{"type":"individual","lat":40.35,"lng":-80.12,"city":"Bridgeville","state":"PA"},
+{"type":"individual","lat":41.71,"lng":-86.48,"city":"New Carlisle","state":"IN"},
+{"type":"individual","lat":39.82,"lng":-90.53,"city":"Meredosia","state":"IL"},
+{"type":"church","lat":38.32,"lng":-83,"city":"Grayson","state":"KY"},
+{"type":"individual","lat":30.11,"lng":-81.72,"city":"Fleming island","state":"FL"},
+{"type":"individual","lat":28.57,"lng":-81.26,"city":"Orlando","state":"FL"},
+{"type":"church","lat":43.46,"lng":-116.24,"city":"Meridian","state":"ID"},
+{"type":"individual","lat":39.75,"lng":-84.27,"city":"Dayton","state":"OH"},
+{"type":"individual","lat":29.02,"lng":-81.17,"city":"Ormond Beach","state":"FL"},
+{"type":"individual","lat":26.72,"lng":-80.95,"city":"Clewiston","state":"FL"}
 ]
